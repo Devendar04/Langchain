@@ -1,3 +1,4 @@
 .env
-./api
-./project
+api/
+project/
+.gitignore
